@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!-- 
+		
+	-->
+	
+<properties>
+
+	<!-- filepath to wikidata dump AND lucene index -->
+	<parameter name="WD_PATH" value="" /> <!-- CHANGEME -->
+	<parameter name="LUCENE_PATH" value = "data/" /> <!-- CHANGEME -->
+
+	
+</properties>	
+
+	
